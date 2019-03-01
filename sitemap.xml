@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://breaking.computer/posts/snippets-2-28-19/</loc>
+    <lastmod>2019-03-01T04:24:54+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://breaking.computer/</loc>
+    <lastmod>2019-03-01T04:24:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://breaking.computer/posts/</loc>
+    <lastmod>2019-03-01T04:24:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   

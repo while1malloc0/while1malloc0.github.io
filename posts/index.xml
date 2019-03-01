@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Breaking Computer</title>
+    <link>https://breaking.computer/posts/</link>
+    <description>Recent content in Posts on Breaking Computer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 04:24:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://breaking.computer/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Snippets 2/28/19: Work From Woods</title>
+      <link>https://breaking.computer/posts/snippets-2-28-19/</link>
+      <pubDate>Fri, 01 Mar 2019 04:24:54 +0000</pubDate>
+      
+      <guid>https://breaking.computer/posts/snippets-2-28-19/</guid>
+      <description>What is this?
+At the company that I worked for prior to the one that I currently work for (which is Squarespace, for those that don&amp;rsquo;t follow me on Twitter) we had a weekly check-in called Blurbs. The idea was really cool: you would write down what you did that week, successes, things you were thinking about, etc. Some people even added music they were listening to, movies they saw recently, and other social sorts of things.</description>
+    </item>
+    
+  </channel>
+</rss>
