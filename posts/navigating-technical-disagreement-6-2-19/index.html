@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en-us">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Navigating Technical Disagreement | Breaking Computer</title>
+
+
+
+<link href="https://breaking.computer/index.xml" rel="alternate" type="application/rss+xml" title="Breaking Computer" />
+
+<link rel="stylesheet" href="/css/style.css"/><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="https://breaking.computer/">
+          <h1 class="title is-4">Breaking Computer</h1>
+        </a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" aria-label="twitter" href='https://twitter.com/while1malloc0'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="github" href='https://github.com/while1malloc0'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="email" href='mailto:while1malloc0&#43;breakingcomputer@gmail.com'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+
+    <nav class="nav">
+      
+
+      
+    </nav>
+
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      
+    </div>
+    <h2 class="subtitle is-6">June 2, 2019</h2>
+    <h1 class="title">Navigating Technical Disagreement</h1>
+    
+    <div class="content">
+      <p>In <em>Never Split the Difference: Negotiating As If Your Life Depended On It</em>, Chris Voss writes that getting someone to say &ldquo;no&rdquo; is the start of a productive negotiation.
+Pushing for a hard &ldquo;yes&rdquo; can alienate and annoy people.
+&ldquo;No&rdquo; allows us to find hidden points of contention, and clarify what we actually want.
+Hidden contention is also at the heart of many technical disagreements.
+Discovering it is a powerful technique for making disagreements productive.
+Getting to &ldquo;no&rdquo; can be effective here as well, but I prefer to find common ground.
+Finding common ground means getting engineers to agree on core principles and values.
+One technique for this that I’m fond of is figuring out where on the <strong>ladder of values</strong> I agree with someone.
+The ladder of values is a mental model for arguing about projects.
+Each step on the ladder is the foundation for justifying the step below it.
+The steps of the ladder are implementation, requirement, outcome, and goal.
+Finding common ground on one rung of the ladder allows me to better argue my views on the one below it.</p>
+
+<p>Implementation is &ldquo;lowest&rdquo; level at which to argue.
+It&rsquo;s saying &ldquo;I don&rsquo;t like line 37 of the code&rdquo;, or &ldquo;I don&rsquo;t think this design pattern is the right choice.&rdquo;
+This is the level at which we engineers seem to enjoy arguing.
+It&rsquo;s the level that&rsquo;s often seen—incorrectly, in my view—as the most &ldquo;technical&rdquo;.
+It&rsquo;s important to recognize that arguing implementation implies a ranking about what&rsquo;s important in the code.
+The person you’re arguing with may disagree with that ranking.
+If you suspect differing opinions about what to optimize for, confirm that before continuing the discussion.
+Aligning on requirements transforms &ldquo;the function at line 37 should be more performant&rdquo; into &ldquo;the function at line 37 is trading some performance for being more readable. We agreed that performance is more important”</p>
+
+<p><img src="/static/values-ladder.png" alt="values-ladder" /></p>
+
+<p><strong>Requirement</strong> is where you rank architectural drivers such as readability, maintainability, and performance. I believe—in the absence of any hard data—that most technical disagreements boil down to requirements. Sentences like “do we agree that readability is more important than squeezing every inch of performance from this code?” go a long way in ensuring that you’re arguing the same thing. If you both agree, great, go back to implementation details. If you disagree, you might need to agree on what outcome you’re trying to achieve, or on how the requirements contribute to that outcome.</p>
+
+<p><strong>Outcome</strong> is where you discuss what the project is trying to accomplish. This level underpins the ranking order of architectural drivers. “This tool is fast enough for us to use interactively” is an outcome. Ranking performance over readability when making trade-offs might make sense in supporting it. Agreeing on what outcome we’re trying to achieve and figuring out how ranking requirements will get us there before discussing implementation has sorted roughly 95% of my technical disagreements. The last 5% have had to go up another level and argue about the goal of the project.</p>
+
+<p>Arguing a <strong>goal</strong> is about whether the project is worth working on at all. If the conversation necessitates arguing goals, it’s not going to be technical for much longer: you’ll soon have to talk about business strategy. Sometimes the calculus on whether something is worth working on is straightforward. If the options are a shiny new project that will marginally improve developer productivity and an all-out yak shave that will ensure the health of your database, you should break out the shears. If the priorities are this straightforward and the other person is still arguing for the shiny project, it might be a sign that they’re overloaded on operations work. Other times prioritization can be difficult. Maybe someone disagrees with the direction of the team, or even the company. In this case, sometimes the best thing to do is acknowledge the fundamental disagreement and end the argument. Alignment is tricky, and the headspace of a technical disagreement isn’t going to help here. You can also try to get the other person to agree to discuss at lower levels with the hypothetical “if you did happen to agree with the goal of the project, what would you think?”. You should take these answers with a healthy amount of skepticism. Disagreeing with the goal of a project invariably colors your thinking about any potential implementation of it.</p>
+
+<p>The next time you find yourself in an intense technical disagreement, see if you can get your colleagues to common ground on the values ladder. You might be surprised by how much common ground you find, and how effective it is when you disagree with this shared context in mind.</p>
+
+      
+    </div>
+    
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+    
+  </div>
+</section>
+
+
+
+</body>
+</html>
+
