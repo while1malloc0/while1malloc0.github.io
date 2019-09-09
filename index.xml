@@ -13,6 +13,70 @@
     
     
     <item>
+      <title>Snippets 9/8/19</title>
+      <link>https://breaking.computer/posts/snippets-9-8-19/</link>
+      <pubDate>Sun, 08 Sep 2019 18:25:28 -0400</pubDate>
+      <author>John Turner</author>
+      <guid>https://breaking.computer/posts/snippets-9-8-19/</guid>
+      <description></description>
+      
+      <content>&lt;p&gt;This past week, I was hiking towards an inactive volcano when it dawned on me that I haven&amp;rsquo;t done one of those &amp;ldquo;bunch of random thoughts&amp;rdquo; update posts in a while.
+For whatever reason, disconnecting from technology makes me want to write more, and I&amp;rsquo;ve been really digging the newsletter format recently, so let&amp;rsquo;s give this stream of consciousness writing thing another go.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Iceland is a staggeringly beautiful country that seems to have a lot figured out socially, and the hot dogs in Reykjavik are the best I&amp;rsquo;ve ever had.
+Pro tip: if someone asks if you want to try Icelandic fermented shark, say yes.
+The taste borders on revolting, but it&amp;rsquo;s a culinary experience worth having once in one&amp;rsquo;s life.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/evpari&#34;&gt;Eva Parish&lt;/a&gt;, tech writer and &lt;a href=&#34;https://evaparish.com/blog/how-i-edit&#34;&gt;editor extraordinaire&lt;/a&gt;, introduced me to &lt;a href=&#34;https://sembr.org/&#34;&gt;Semantic Line Breaks&lt;/a&gt;, and in the process forever changed my Markdown for the better.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Google released their &lt;a href=&#34;https://google.github.io/eng-practices/review/reviewer/&#34;&gt;code review guidelines&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=S3m2TUdBzdk&#34;&gt;a topic that I seem to broadly agree with them on&lt;/a&gt;.
+Surely some of that is attributable to the fact that many of the ideas are straightforward &amp;ldquo;what would I do if I were designing a good code review process&amp;rdquo; things, but I&amp;rsquo;m also sure that there&amp;rsquo;s some shared idea DNA there; the company where I really learned how to code review had some ex-Googlers in its ranks, and it&amp;rsquo;d be impossible for some of that to not seep into the code review culture there.
+It&amp;rsquo;s a great document, and I&amp;rsquo;m really pleased that there are guidelines for code authors as well.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Silvia Botros wrote a great post on &lt;a href=&#34;https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html&#34;&gt;being a principal engineer&lt;/a&gt;.
+I&amp;rsquo;m firmly in the &amp;ldquo;I have no desire to be a people manager&amp;rdquo; camp, so it&amp;rsquo;s nice to see writing on what the upper levels of the individual contributor&amp;rsquo;s path are like.
+In a post filled with great quotes, this one stood out:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[Principal Engineer] is an IC position that is on a different playing field as it involves competencies that no longer apply to only technical prowess. For an engineer to get to the Principal Engineer level, there needs to be cross organizational collaborative signals, there needs to be a clear understanding of architecture and design decisions that go far beyond the immediate technical area of expertise.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I hate the term &amp;ldquo;soft skills&amp;rdquo; for a variety of reasons, not the least of which is that the phrase &amp;ldquo;soft&amp;rdquo; makes no sense as an adjective describing skills. I&amp;rsquo;m happy to add &amp;ldquo;basically required at the most senior levels of IC-dom&amp;rdquo; to the list.
+One more:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Once at a certain level, all problems are solved by people. There is no such thing as ‘purely technical problems’.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If I were a craft-y person, I would put that on a poster, frame it, and put it up near my desk.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I stumbled on an old-ish article from Mike McGarr about how he &lt;a href=&#34;https://www.mikemcgarr.com/blog/understanding-culture.html&#34;&gt;understands culture&lt;/a&gt;.
+The information there is useful, but the pyramid that he uses to visualize culture doesn&amp;rsquo;t make much sense to me.
+Specifically, &amp;ldquo;behaviors&amp;rdquo; and &amp;ldquo;values&amp;rdquo;—which are atop each other in the pyramid—feed into each other in a way that&amp;rsquo;s not expressed with that diagram.
+In fairness, I don&amp;rsquo;t have a better way of visualizing it, though I think a cyclic graph is probably a better start given how much of culture is a positive feedback loop.
+I also found myself wanting more actionable advice around &amp;ldquo;here&amp;rsquo;s what you can do to understand your company&amp;rsquo;s culture&amp;rdquo;, but that&amp;rsquo;s probably me wishing for a different article altogether.
+All critique aside, it&amp;rsquo;s a worthwhile read for anyone who thinks that understanding their company&amp;rsquo;s culture is important (which I hope is everybody. Are there people out there that don&amp;rsquo;t care?)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Foone/status/1169012389616001024?s=20&#34;&gt;This&lt;/a&gt; was a particularly fun Twitter thread.
+There&amp;rsquo;s a lot to dig into there, and might warrant a future post.&lt;/p&gt;
+</content>
+      
+    </item>
+    
+    <item>
       <title>Navigating Technical Disagreement</title>
       <link>https://breaking.computer/posts/navigating-technical-disagreement-6-2-19/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
